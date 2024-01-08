@@ -53,7 +53,7 @@ document.getElementById('screen_ua').innerHTML = `
 <div id = "son-daugtherModal" class="personName-eclipse" >
     <div class="personModalInfo">
 <div class="titleModal">
-<img src="./photo/son-1.png" width="48">
+<img src="./photo/son.png" width="48">
 <h2>Син</h2>
 <a class="close" href="#">&times;</a>
 </div>
