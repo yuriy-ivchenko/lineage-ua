@@ -16,7 +16,7 @@ document.getElementById('screen_ua').innerHTML = `
 <p><q>Тоді настрашилися страхом вони, бо Бог в 
 <strong>праведнім роді</strong></q>
 (Псалми 13:5)</p>
-<p><strong>Ісус Христо є Голова Церкви.</strong></p><br>
+<p><strong>Ісус Христос є Голова Церкви.</strong></p><br>
 <p><strong>Бог-Творець. Бог-Суддя. Бог-Отець. Бог-Спаситель.</strong></p>
 <br><br>
     </div>
